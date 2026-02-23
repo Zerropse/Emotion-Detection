@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+data/
+models/*.hdf5
+.DS_Store
